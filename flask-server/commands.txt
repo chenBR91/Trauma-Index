@@ -1,0 +1,5 @@
+source venv/bin/activate  
+
+deactivate
+
+pip freeze > requirements.txt  # update the requirements file
